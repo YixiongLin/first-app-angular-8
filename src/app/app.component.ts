@@ -4,7 +4,12 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
+  // styles: [`
+  //   h3 {
+  //     color: dodgerblue;
+  //     font-weight: bold;
+  //   }
+  //   `]
 })
 export class AppComponent {
-  title = 'first-app';
 }
